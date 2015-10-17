@@ -1,0 +1,15 @@
+GITHUB:alf0903/depechemode
+HEROKU:http://depeche.herokuapp.com
+ 
+ workflow
+
+ se nunca usou o git configurar
+  git config --global user.name "renato oliveira"
+  git config --global user.email "renato0903@hotmail.com"
+  git config --list
+  
+  se já existe repositorio local
+     git pull
+
+se não existe repositorio local
+   git clone https://github.com/alf0903/depechemode.git
