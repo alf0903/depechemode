@@ -1,7 +1,9 @@
-GITHUB:alf0903/depechemode
+﻿GITHUB:alf0903/depechemode
 HEROKU:http://depeche.herokuapp.com
  
- workflow
+senha depeche0903
+ 
+workflow
 
  se nunca usou o git configurar
   git config --global user.name "renato oliveira"
